@@ -148,5 +148,7 @@ public class No1 {
 		}
 		
 		
+		System.out.println("今天天气真好啊");
+		
 	}
 }
